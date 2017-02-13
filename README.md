@@ -1,11 +1,11 @@
 # PemilihanDokter
 
 <b> <br> Identitas </b>
-<br>Nama Lengkap   : ELVIRA AYU SOSILIA
+<br> Nama Lengkap  : Elvira Ayu Sosilia
 <br> Asal Sekolah  : SMK TELKOM MALANG
 <br> Kelas         : XIRPL3
-<br> Nomor absem   : 09
-<br> Nisn          : 4701/1420.070
+<br> Nomor absen   : 09
+<br> NISN          : 4701/1420.070
 
 <br> <b> ScreenShots </b>
 <br> 1 ![1](https://cloud.githubusercontent.com/assets/22167465/22871662/9374e822-f1e5-11e6-90ea-8a4cde86beba.PNG)
